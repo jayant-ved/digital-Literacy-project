@@ -1,15 +1,13 @@
 Subject: Inquiry: Summer Internship Opportunities
 
-Dear [Coordinator Name],
+Dear Sir/Ma'am,
 
-I am writing to express my strong interest in a summer internship with the [Department Name, e.g., Software Engineering or Marketing] team at [Company Name]. As a student currently pursuing my degree in [Your Major] at [Your University], I have long admired [Company Name]’s commitment to [mention a specific company value or recent project], and I would welcome the opportunity to contribute to your team.
+I am writing to express my strong interest in a summer internship with the Software Engineering team at [Company Name]. As a student currently pursuing my degree in Computer Science at VIT Bhopal University, I have long admired [Company Name]’s commitment to [mention a specific company value or recent project], and I would welcome the opportunity to contribute to your team.
 
-During my studies, I have developed a solid foundation in [Skill 1] and [Skill 2]. Notably, I recently completed a project where I [briefly describe a key achievement or relevant coursework], which sharpened my ability to solve complex problems and collaborate effectively in a professional environment. I am eager to apply this background to the innovative work being done at [Company Name].
+During my studies, I have developed a solid foundation in DSA and Web Development. Notably, I recently completed a project where I built a fully-functional website for my college event, which sharpened my ability to solve complex problems and collaborate effectively in a professional environment. I am eager to apply this background to the innovative work being done at [Company Name].
 
 I have attached my resume for your review, which provides further detail on my academic background and technical skills. Thank you for your time and for considering my application. I look forward to the possibility of discussing how I can support your team this summer.
 
 Best regards,
 
-[Your Name]
-[Your Phone Number]
-[Your LinkedIn Profile Link]
+Jayant Ved
